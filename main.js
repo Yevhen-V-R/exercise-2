@@ -233,14 +233,14 @@ Instructions to create repository on Git
 // Click on green button 'New' -> Repository name -> Description -> Public -> Click 'Create repository' button to create & register your new repository
 
 // New - create a new repository
-// Repository name - create custom name of repository
+// Repository name - create custom name of repository 'exercise-2'
 // Public - make it open to every one to see your repository files
 
 // Далее используем следующие команды чтоб внести файлы в репозиторий
 
 // 18. Привязываем и Добавляем удаленный репозиторий в наш терминал коммандную строку
 // ......................
-// git remote add origin https://github.com/Yevhen-V-R/exercise-1.git
+// git remote add origin https://github.com/Yevhen-V-R/exercise-2.git
 
 // 19. Далее Добавляем данные в удаленный репозиторий на GitHub сайте
 // ......................
@@ -249,6 +249,8 @@ Instructions to create repository on Git
 // or
 
 // git push -u origin main
+
+// Далее Refresh GitHub page Ctrl+R to see new repository added 
 
 // Далее создаем новый файл либо делаем какие-то изменения
 // ======================
